@@ -1,19 +1,14 @@
 channels:
 - defaults
-- conda-forge
-- anaconda
 dependencies:
 - python=3.7.6
 - pandas
 - matplotlib
 - pandas
 - pip
-- sklearn
 - pip:
   - mlflow
   - tensorflow==2.3.0
   - matplotlib
   - pandas
-- pip3:
-  - scikit-learn  
 name: mlflow-env
