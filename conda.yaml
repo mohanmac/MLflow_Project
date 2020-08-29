@@ -5,13 +5,13 @@ dependencies:
 - python=3.7.6
 - pandas
 - matplotlib
-- sklearn
+- scikit-learn
 - pandas
 - pip
 - pip:
   - mlflow
   - tensorflow==2.3.0
   - matplotlib
-  - sklearn
+  - scikit-learn
   - pandas  
 name: mlflow-env
