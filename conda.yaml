@@ -8,4 +8,6 @@ dependencies:
   - mlflow
   - tensorflow==2.3.0
   - matplotlib
+  - sklearn
+  - warnings
 name: mlflow-env
