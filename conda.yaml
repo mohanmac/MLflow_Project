@@ -4,6 +4,10 @@ channels:
 dependencies:
 - python=3.7.6
 - pandas
+- matplotlib
+- sklearn
+- warnings
+- pandas
 - pip
 - pip:
   - mlflow
