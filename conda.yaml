@@ -6,7 +6,6 @@ dependencies:
 - pandas
 - matplotlib
 - sklearn
-- warnings
 - pandas
 - pip
 - pip:
@@ -14,6 +13,5 @@ dependencies:
   - tensorflow==2.3.0
   - matplotlib
   - sklearn
-  - warnings
   - pandas  
 name: mlflow-env
