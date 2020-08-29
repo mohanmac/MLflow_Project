@@ -3,6 +3,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import scikit-learn as sklearn 
 from sklearn.model_selection import train_test_split
 
 import tensorflow as tf
