@@ -7,4 +7,5 @@ dependencies:
 - pip:
   - mlflow
   - tensorflow==2.3.0
+  - matplotlib
 name: mlflow-env
