@@ -12,5 +12,7 @@ dependencies:
   - mlflow
   - tensorflow==2.3.0
   - matplotlib
-  - pandas  
+  - pandas
+- pip3:
+  - scikit-learn  
 name: mlflow-env
