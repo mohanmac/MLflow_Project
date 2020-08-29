@@ -10,6 +10,7 @@ from tensorflow.keras.layers import Input, Conv2D, Dense, Flatten, Dropout, Glob
 from tensorflow.keras.models import Model
 
 import mlflow
+import mlflow.sklearn
 from mlflow import pyfunc
 import mlflow.tensorflow
 import warnings
